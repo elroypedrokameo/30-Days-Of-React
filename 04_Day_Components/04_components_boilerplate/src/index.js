@@ -37,11 +37,8 @@ const HexaColor = () => {
 const Header = () => (
   <header>
     <div className='header-wrapper'>
-      <h1>Welcome to 30 Days Of React</h1>
-      <h2>Getting Started React</h2>
-      <h3>JavaScript Library</h3>
-      <p>Asabeneh Yetayeh</p>
-      <small>Oct 3, 2020</small>
+      <h1>Hallo, ini adalah perubahan yang saya lakukan pada branch feature untuk tugas GIT</h1>
+      <small>24 Agustus 2022</small>
     </div>
   </header>
 )
