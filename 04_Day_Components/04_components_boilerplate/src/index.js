@@ -38,6 +38,7 @@ const Header = () => (
   <header>
     <div className='header-wrapper'>
       <h1>Hallo, ini adalah perubahan yang saya lakukan pada branch feature untuk tugas GIT</h1>
+      <h1>Di sini saya menambahkan beberapa perubahan pada branch develop</h1>
       <small>24 Agustus 2022</small>
     </div>
   </header>
